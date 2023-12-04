@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tassadiq Shakeel
 ========================================================================================================================================
 
-Web Developer | Scripting Engineer | Automation Engineer
+Web Developer | BlockChain Developer | Automation Engineer
 --------------------------------------------------------
 
 Hello and welcome to my GitHub profile! I'm a passionate computer science student with a deep interest in exploring the fascinating world of programming. My journey began with languages like Python and JavaScript, and I've since expanded my skills to include frameworks such as Django and React. As I continue my studies, I'm constantly seeking opportunities to apply my knowledge and contribute to the field of computer science. I've had the privilege of working on various projects, from creating Discord server management bots to automating workflows, which have sharpened my problem-solving abilities and fostered my independence as a developer. My GitHub serves as a platform to showcase my projects and share my love for coding. I believe in the power of collaboration and open-source contributions, and I'm excited to connect with fellow developers to learn, grow, and make a positive impact together. If you're as passionate about computer science as I am, let's connect! Feel free to reach out and explore the possibilities of collaborating on innovative projects. Together, we can push the boundaries of what's possible in the ever-evolving field of programming.
 
-* 🧠  I'm learning Solidity, Rust, JavaScript
+* 🧠  I'm learning Solidity and Rust.
 * 🤝  I'm open to collaborating on Web3 Projects, Interesting Web Apps
 
 ### Skills
