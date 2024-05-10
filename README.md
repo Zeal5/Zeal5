@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Scripting Engineer | Automation Engineer
 --------------------------------------------------------
 
-Hello and welcome to my GitHub profile! I'm a passionate computer science student with a deep interest in exploring the fascinating world of programming. My journey began with languages like Python and JavaScript, and I've since expanded my skills to include frameworks such as Django and React. As I continue my studies, I'm constantly seeking opportunities to apply my knowledge and contribute to the field of computer science. I've had the privilege of working on various projects, from creating Discord server management bots to automating workflows, which have sharpened my problem-solving abilities and fostered my independence as a developer. My GitHub serves as a platform to showcase my projects and share my love for coding. I believe in the power of collaboration and open-source contributions, and I'm excited to connect with fellow developers to learn, grow, and make a positive impact together. If you're as passionate about computer science as I am, let's connect! Feel free to reach out and explore the possibilities of collaborating on innovative projects. Together, we can push the boundaries of what's possible in the ever-evolving field of programming.
+I'm a data science enthusiast who's deeply intrigued by blockchain technology. When I'm not diving deep into the intricacies of smart contracts, you'll find me experimenting with machine learning algorithms or automating tasks with Python, or creating random trading bots that lose money <a href="https://emoji.gg/emoji/67184-nah1"><img src="https://cdn3.emoji.gg/emojis/67184-nah1.png" width="20px" height="20px" alt="Nah1"></a>. My journey into the fascinating world of programming has been nothing short of a rollercoaster ride, filled with countless hours spent in the trenches and the occasional 'why did I choose this path?' moment.
 
-* 🧠  I'm learning Solidity, Rust, JavaScript
-* 🤝  I'm open to collaborating on Web3 Projects, Interesting Web Apps
+and BTW i use ARCH and NVIM <a href="https://emoji.gg/emoji/59989-yea1"><img src="https://cdn3.emoji.gg/emojis/59989-yea1.png" width="20px" height="20px" alt="Yea1"></a> 
 
 ### Skills
 
