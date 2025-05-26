@@ -1,34 +1,57 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tassadiq Shakeel
-========================================================================================================================================
+<div div align="center">
+  
+<h3> 💫 About Me</h3>  
 
-Web Developer | Scripting Engineer | Automation Engineer
---------------------------------------------------------
+I’m a Full Stack Engineer who thrives on tackling challenging problems and building interesting projects. When I’m not writing code, you’ll find me experimenting with new tools, or tinkering with random side projects. Most of which, admittedly, are more about the journey than the outcome!
 
-I'm a data science enthusiast who's deeply intrigued by blockchain technology. When I'm not diving deep into the intricacies of smart contracts, you'll find me experimenting with machine learning algorithms or automating tasks with Python, or creating random trading bots that lose money <a href="https://emoji.gg/emoji/67184-nah1"><img src="https://cdn3.emoji.gg/emojis/67184-nah1.png" width="20px" height="20px" alt="Nah1"></a>. My journey into the fascinating world of programming has been nothing short of a rollercoaster ride, filled with countless hours spent in the trenches and the occasional 'why did I choose this path?' moment.
+<em><string>I am always doing that which I cannot do, in order that I may learn how to do it.</strong></em>
 
-and BTW i use ARCH and NVIM <a href="https://emoji.gg/emoji/59989-yea1"><img src="https://cdn3.emoji.gg/emojis/59989-yea1.png" width="20px" height="20px" alt="Yea1"></a> 
+And yes, I use Arch and Neovim—because the right tools make all the difference.
 
-### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
+
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
+  <h3>🚀 Languages & Tools</h3>
+<p>
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
+    <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-181717?style=for-the-badge&logo=bun&logoColor=white" alt="bun"/></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+    <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react"/></a>
+    <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
+    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss"/></a>
+    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
-### Socials
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-<p align="left"> <a href="https://www.github.com/Zeal5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+  <h3>🌟 GitHub Trophies</h3>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Zeal5&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    </a>
+  </p>
+  
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+  
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeal5&theme=react" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zeal5&theme=react" alt="Repos per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zeal5&theme=react" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zeal5&theme=react" alt="Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zeal5&theme=react&utcOffset=8" alt="Productive Time" />
+  </p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Zeal5"><img src="https://github-readme-stats.vercel.app/api?username=Zeal5&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zeal5's GitHub stats" /></a>
-
-<a href="http://www.github.com/Zeal5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeal5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Zeal5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeal5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeal5&theme=radical" alt="GitHub Streak" />
+  </p>
+  </div>
