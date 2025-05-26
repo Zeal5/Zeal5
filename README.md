@@ -1,10 +1,10 @@
-<div div align="center">
+<div align="center">
   
 <h3> 💫 About Me</h3>  
 
 I’m a Full Stack Engineer who thrives on tackling challenging problems and building interesting projects. When I’m not writing code, you’ll find me experimenting with new tools, or tinkering with random side projects. Most of which, admittedly, are more about the journey than the outcome!
 
-<em><string>I am always doing that which I cannot do, in order that I may learn how to do it.</strong></em>
+<em><strong>I am always doing that which I cannot do, in order that I may learn how to do it.</strong></em>
 
 And yes, I use Arch and Neovim—because the right tools make all the difference.
 
@@ -34,7 +34,7 @@ And yes, I use Arch and Neovim—because the right tools make all the difference
 
   <h3>🌟 GitHub Trophies</h3>
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="#">
       <img src="https://github-profile-trophy.vercel.app/?username=Zeal5&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
     </a>
   </p>
